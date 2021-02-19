@@ -1,10 +1,6 @@
-#ENPM693 - Network Security
-#Homework 1 - Caesar Encryption/Decryption Algorithm
+#Network Security
+#Caesar Encryption/Decryption Algorithm
 #February 7, 2021
-
-UID = 116430197
-Last_Name = "Mukam"
-First_Name = "Kevin"
 
 
 #Function for the encryption algorithm
